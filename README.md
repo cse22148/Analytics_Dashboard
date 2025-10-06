@@ -1,22 +1,16 @@
-React Redux Analytics Dashboard
-📊 Overview
+React Redux Analytics Dashboard Assignment
+🧭 Overview
 
-This project is a comprehensive analytics dashboard for Apple Search Ads performance tracking.
-The application displays real-time metrics, interactive charts, and data tables, with smooth animations and a responsive design.
-
-🎨 Figma Design ReferenceReact Redux Analytics Dashboard
-📊 Overview
-
-A comprehensive analytics dashboard for Apple Search Ads performance tracking.
-The application displays real-time metrics, interactive charts, and data tables, with smooth animations and a responsive design.
+Build a comprehensive analytics dashboard for Apple Search Ads performance tracking.
+The application should display real-time metrics, interactive charts, data tables, and provide filtering capabilities with smooth animations and responsive design.
 
 🎨 Figma Design Reference
 
-Figma Design Link
+https://www.figma.com/design/MeYeKuDkBYWfcwLfPFMfPW/Task1?node-id=0-
 
-⚙️ Tech Stack
+⚙️ Tech Stack Requirements
 
-React 18+ (Functional Components & Hooks)
+React 18+ with functional components and hooks
 
 Redux Toolkit for state management
 
@@ -30,79 +24,32 @@ React Table for data grids
 
 🧩 Functional Requirement
 
-Complete any one page from the Figma design and integrate state management using Redux / Redux Toolkit.
+Complete any one Figma design page and try to integrate state management using Redux / Redux Toolkit.
 
-🚀 Setup & Installation
+📦 Submission Requirements
+
+GitHub repository with clean commit history
+
+Live demo URL in README
+
+🚀 Setup Instructions
 # Clone the repository
 git clone https://github.com/your-username/react-redux-analytics-dashboard.git
 
-# Navigate to the project directory
+# Navigate to the project folder
 cd react-redux-analytics-dashboard
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Start the application
 npm start
-
-🧾 Submission Requirements
-
-✅ GitHub repository with clean commit history
-
-✅ Live demo URL included in README
 
 🌐 Live Demo
 
-Click here to view the live project
+https://analytics-dashboardchanchal.vercel.app/
 
-🧑‍💻 Author
+👩‍💻 Developer
 
-Developed by Chanchal as part of the React Redux Analytics Dashboard Assignment.
-
-Figma Design Link
-
-⚙ Tech Stack
-
-React 18+ (Functional Components & Hooks)
-
-Redux Toolkit for state management
-
-Tailwind CSS for styling
-
-Framer Motion for animations
-
-Chart.js / Recharts for data visualization
-
-React Table for data grids
-
-🧩 Functional Requirement
-
-Implement any one page from the Figma design and integrate state management using Redux / Redux Toolkit.
-
-🚀 Setup & Installation
-# Clone the repository
-git clone https://github.com/your-username/react-redux-analytics-dashboard.git
-
-# Navigate to the project directory
-cd react-redux-analytics-dashboard
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
-🧠 Folder Structure
-src/
-│
-├── components/       # Reusable UI components
-├── features/         # Redux slices
-├── pages/            # Figma page implementations
-├── store/            # Redux store configuration
-└── App.js            # Root component
-
-
-
-
-
-🌐 Live Demo
+Developed by Chanchal
+Assignment: React Redux Analytics Dashboard
