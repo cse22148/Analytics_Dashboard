@@ -4,7 +4,60 @@ React Redux Analytics Dashboard
 This project is a comprehensive analytics dashboard for Apple Search Ads performance tracking.
 The application displays real-time metrics, interactive charts, and data tables, with smooth animations and a responsive design.
 
+🎨 Figma Design ReferenceReact Redux Analytics Dashboard
+📊 Overview
+
+A comprehensive analytics dashboard for Apple Search Ads performance tracking.
+The application displays real-time metrics, interactive charts, and data tables, with smooth animations and a responsive design.
+
 🎨 Figma Design Reference
+
+Figma Design Link
+
+⚙️ Tech Stack
+
+React 18+ (Functional Components & Hooks)
+
+Redux Toolkit for state management
+
+Tailwind CSS for styling
+
+Framer Motion for animations
+
+Chart.js / Recharts for data visualizations
+
+React Table for data grids
+
+🧩 Functional Requirement
+
+Complete any one page from the Figma design and integrate state management using Redux / Redux Toolkit.
+
+🚀 Setup & Installation
+# Clone the repository
+git clone https://github.com/your-username/react-redux-analytics-dashboard.git
+
+# Navigate to the project directory
+cd react-redux-analytics-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+🧾 Submission Requirements
+
+✅ GitHub repository with clean commit history
+
+✅ Live demo URL included in README
+
+🌐 Live Demo
+
+Click here to view the live project
+
+🧑‍💻 Author
+
+Developed by Chanchal as part of the React Redux Analytics Dashboard Assignment.
 
 Figma Design Link
 
@@ -50,6 +103,6 @@ src/
 
 
 
-✅ Live demo URL included in README
+
 
 🌐 Live Demo
