@@ -6,7 +6,7 @@ The application should display real-time metrics, interactive charts, data table
 
 🎨 Figma Design Reference
 
-https://www.figma.com/design/MeYeKuDkBYWfcwLfPFMfPW/Task1?node-id=0-
+[https://www.figma.com/design/MeYeKuDkBYWfcwLfPFMfPW/Task1?node-id=0-](https://www.figma.com/design/MeYeKuDkBYWfcwLfPFMfPW/Task1?node-id=0-)
 
 ⚙️ Tech Stack Requirements
 
