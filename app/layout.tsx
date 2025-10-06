@@ -9,7 +9,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Appversal",
   description: "Chanchal teotia",
-    generator: 'v0.app'
+    
 }
 
 export default function RootLayout({
